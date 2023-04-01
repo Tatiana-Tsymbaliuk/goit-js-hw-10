@@ -7,7 +7,7 @@ export function fetchCountries(name) {
                 }
 
                 return res.json();
-        })
+        });
 }
 
 
